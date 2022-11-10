@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="purify my soul" />
         <p className="description">
-          - wash away my sins
+          - wash away my sins -
         </p>
       </main>
 
