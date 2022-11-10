@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        also fuck alfie
+        til#1111 - work in progress
       </footer>
     </>
   )
