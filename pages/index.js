@@ -10,9 +10,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="pls die krit" />
+        <Header title="purify my soul" />
         <p className="description">
-          - chris
+          - wash away my sins
         </p>
       </main>
 
