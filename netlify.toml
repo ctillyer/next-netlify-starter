@@ -1,8 +1,1 @@
-[build]
-  command = "npm run build"
-  publish = ".next"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
-[[plugins]]
-  package = "netlify-plugin-cypress"
+npm uninstall -D netlify-plugin-cypress
